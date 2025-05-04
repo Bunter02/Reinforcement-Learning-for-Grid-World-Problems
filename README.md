@@ -1,5 +1,8 @@
 # Reinforcement-Learning-for-Grid-World-Problems
 Overview
+
+The 2 versions are a normal python file(easier to run) and a juypter notebook fill (easier to see whats happening in each section)
+
 This code implements a Q-learning reinforcement learning agent that learns to navigate through a 5x5 grid world environment. The environment includes obstacles, a special "jump" state that teleports the agent to another location with a reward, and a terminal state that the agent aims to reach.
 Features
 
